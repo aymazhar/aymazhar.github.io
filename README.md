@@ -4,6 +4,8 @@ A sample portfolio created for a web development workshop.
 
 If you attended the workshop and missed any steps, this repo has all the info you may need to get your portfolio set up.
 
+Workshop starter code available at: https://github.com/aymazhar/workshop_starter
+
 
 ## Resources:
 
